@@ -1,0 +1,3 @@
+﻿  Maszyna sortująca.cpp
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(51,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Maszyna sortująca.vcxproj -> C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\x64\Debug\Maszyna sortująca.exe

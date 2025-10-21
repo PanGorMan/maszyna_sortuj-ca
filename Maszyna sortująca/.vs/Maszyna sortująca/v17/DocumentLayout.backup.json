@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48574\\Desktop\\GIT LOKACJA\\maszyna_sortujca\\Maszyna sortuj\u0105ca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC081C-C20C-4EC9-B2BF-1E7C37AFB88C}|Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.vcxproj|C:\\Users\\48574\\Desktop\\GIT LOKACJA\\maszyna_sortujca\\Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC081C-C20C-4EC9-B2BF-1E7C37AFB88C}|Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.vcxproj|solutionrelative:Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maszyna sortuj\u0105ca.cpp",
+              "DocumentMoniker": "C:\\Users\\48574\\Desktop\\GIT LOKACJA\\maszyna_sortujca\\Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.cpp",
+              "RelativeDocumentMoniker": "Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.cpp",
+              "ToolTip": "C:\\Users\\48574\\Desktop\\GIT LOKACJA\\maszyna_sortujca\\Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.cpp*",
+              "RelativeToolTip": "Maszyna sortuj\u0105ca\\Maszyna sortuj\u0105ca.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T22:52:31.07Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
