@@ -1,3 +1,10 @@
 ﻿  Maszyna sortująca.cpp
-C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(51,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(14,13): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(14,15): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(51,27): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(76,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(77,23): warning C4305: "=": obcięcie z "__int64" do "int"
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(77,23): warning C4309: "=": obcięcie stałej wartości
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(97,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\Maszyna sortująca\Maszyna sortująca.cpp(123,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
   Maszyna sortująca.vcxproj -> C:\Users\48574\Desktop\GIT LOKACJA\maszyna_sortujca\Maszyna sortująca\x64\Debug\Maszyna sortująca.exe
